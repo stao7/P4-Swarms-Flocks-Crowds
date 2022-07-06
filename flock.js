@@ -1,7 +1,7 @@
 let flock;
 
 function setup() {
-  createCanvas(640, 500);
+  createCanvas(800, 500);
   createP("Drag the mouse to generate food for fishes.");
   createP("Click the mouse to generate small fish.");
   createP("DoubleClick the mouse to generate small fish.");
